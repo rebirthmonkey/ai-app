@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "31f60711fd20e8f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa3065d2b3ac1120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf20ceec4cc14717",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d4be9c893b2e48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1617dfa9a299a464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba36475e9ad662e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3ffa34b2e3e3de0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db234916437de1e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "524fa6d9db3307a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0ce88e4c9f3e22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d153272f121ddbff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境"
+            }
+          },
+          {
+            "id": "9171ec8051a1c612",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境"
+            }
+          },
+          {
+            "id": "0407794f060b139b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "32d0a023b8521c9e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c37ef6f7d5dbe6df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "bf20ceec4cc14717",
+  "lastOpenFiles": [
+    "认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境.md",
+    "1e0eb488033b13fe261366912a633c01_MD5.gif",
+    "bf09280a0f9a2784f34032d7d5d0eb71_MD5.webp",
+    "644bc878d3e275aa1c8eef80fe4abed8_MD5.webp",
+    "8939d19017464225dad07c3d199dcde4_MD5.webp",
+    "329782c33d5d7742d65ae1045e80820e_MD5.webp",
+    "1bd7826530078542541717246716b3f0_MD5.webp",
+    "71cc82dab0fc37c82c7ddec4de5bef40_MD5.webp",
+    "dcd9c4f216a4666d01669b291a9c93cb_MD5.webp",
+    "3eb3c9d7abc6286439f044eca9bcd97a_MD5.webp",
+    "9f3e220434643d975076ff840cc201af_MD5.webp",
+    " 3",
+    "/ 3",
+    " 2",
+    "/ 2",
+    " 1",
+    "/ 1"
+  ]
+}
